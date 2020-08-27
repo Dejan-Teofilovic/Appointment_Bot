@@ -1,4 +1,4 @@
-# VACBot
+# Appointment_Bot
 Booking an Appointment using Selenium and Telebot in Python
 
 ***Disclaimer: This project is just a non-distructive bot for learning objectives. VACBot has been developed for non-profit and educational operations, and I do not have any responsibility for abuse of this bot.***
