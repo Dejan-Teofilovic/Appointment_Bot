@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 
 bot = telebot.TeleBot("...")  # Insert your bot's TOKEN here
-driver = webdriver.Chrome("E:/In Use/Projects/VAC_Appointment/VAC_bot/chromedriver")  # Address browser driver (smth.exe)
+driver = webdriver.Chrome(".../chromedriver")  # Address browser driver (smth.exe)
 otp_automate = True  # It is defined to specify the OTP extraction's method
 
 all_users = {}
