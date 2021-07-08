@@ -7,7 +7,7 @@ from Gmail import gmail_ckeck
 from bs4 import BeautifulSoup
 
 
-bot = telebot.TeleBot("1276068370:AAHCNkZoywxmJJmkWH1eslK45VBZpTSBmS0")  # Insert your bot's TOKEN here
+bot = telebot.TeleBot("...")  # Insert your bot's TOKEN here
 driver = webdriver.Chrome("E:/In Use/Projects/VAC_Appointment/VAC_bot/chromedriver")  # Address browser driver (smth.exe)
 otp_automate = True  # It is defined to specify the OTP extraction's method
 
